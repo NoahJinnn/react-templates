@@ -1,0 +1,105 @@
+$light-1: rgba(255, 255, 255, 0.04);
+$light-2: rgba(255, 255, 255, 0.1);
+$light-3: rgba(255, 255, 255, 0.24);
+$light-4: rgba(255, 255, 255, 0.7);
+$light-5: rgba(255, 255, 255, 1);
+$light-br-low: rgba(255, 255, 255, 0.4);
+$light-br-med: rgba(255, 255, 255, 0.6);
+$light-br-high: rgba(255, 255, 255, 0.4);
+
+$gray-50: #f8f9fa;
+$gray-100: #e8eaed;
+$gray-200: #d5d7db;
+$gray-300: #babdc2;
+$gray-400: #9fa1a6;
+$gray-500: #7e8085;
+$gray-600: #606266;
+$gray-700: #404145;
+$gray-800: #2c2d30;
+$gray-900: #141518;
+
+$indigo-50: #d6e3ff;
+$indigo-75: #c2d6fe;
+$indigo-100: #99bbff;
+$indigo-200: #70a0ff;
+$indigo-300: #4784ff;
+$indigo-400: #2068ff;
+$indigo-500: #0056fe;
+$indigo-600: #004be0;
+
+$cyan-50: #f3fafc;
+$cyan-75: #def6fc;
+$cyan-100: #c8f1fc;
+$cyan-200: #9ee8fc;
+$cyan-300: #63dbfc;
+$cyan-400: #44d3fc;
+$cyan-500: #37cdfa;
+
+$green-100: #caf8dd;
+$green-200: #71e9a7;
+$green-300: #29df7c;
+$green-400: #1fc368;
+$green-500: #179c52;
+$green-600: #158e4d;
+
+$yellow-50: #fcfaf4;
+$yellow-75: #fdf1d3;
+$yellow-100: #fde7b1;
+$yellow-200: #fdd570;
+$yellow-300: #fec63d;
+$yellow-400: #ffbc21;
+$yellow-500: #fcb017;
+$yellow-600: #f1a204;
+
+$red-50: #fcf2f2;
+$red-75: #fcdcdd;
+$red-100: #fcc7c8;
+$red-200: #fc9c9e;
+$red-300: #fc5f64;
+$red-400: #fa3f48;
+$red-500: #f2323f;
+$red-600: #e60f1d;
+
+$orange-50: #fcf4f0;
+$orange-75: #fce4db;
+$orange-100: #fcd4c6;
+$orange-200: #fcb59b;
+$orange-300: #fc895e;
+$orange-400: #fc733f;
+$orange-500: #f76f34;
+
+$teal-50: #f0fcf9;
+$teal-75: #d8faf2;
+$teal-100: #c1f8ea;
+$teal-200: #93f4db;
+$teal-300: #4fdcb9;
+$teal-400: #2ec39f;
+$teal-500: #23ba99;
+$teal-600: #1d9a7f;
+
+$purple-50: #f5f3fc;
+$purple-75: #e7e1fb;
+$purple-100: #d8cef9;
+$purple-200: #bcaaf6;
+$purple-300: #8d73e4;
+$purple-400: #7355d3;
+$purple-500: #6b4bcc;
+
+$blue-50: #eaf7ff;
+$blue-75: #c2e5ff;
+$blue-100: #9ad5ff;
+$blue-200: #6fc3ff;
+$blue-300: #47b3ff;
+$blue-400: #1fa2ff;
+$blue-500: #0095ff;
+$blue-600: #0083e0;
+
+$gd-indigo-teal: linear-gradient(68deg, #374fc7, $teal-500);
+$gd-purple-red: linear-gradient(68deg, $purple-500, $red-500);
+$gd-red-orange: linear-gradient(68deg, $red-500, $orange-500);
+$gd-indigo-purple: linear-gradient(68deg, #374fc7, $purple-500);
+$gd-dark-gray: linear-gradient(68deg, $gray-900 0%, $gray-700);
+$gd-med-gray: linear-gradient(68deg, $gray-700, $gray-500);
+$gd-gray: linear-gradient(68deg, $gray-500, $gray-300);
+$gd-soft-gray: linear-gradient(68deg, $gray-400, $gray-200);
+$gd-light-gray: linear-gradient(68deg, $gray-200, $gray-50);
